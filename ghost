@@ -1,3 +1,9 @@
 #------------install a local version of Ghost--------------
 
 npm i ghost-cli@latest -g
+
+
+
+#---------create new directory for ghost piece-------------
+
+cd .. && mkdir gga-ghost
