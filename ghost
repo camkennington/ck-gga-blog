@@ -3,8 +3,7 @@
 npm i ghost-cli@latest -g
 
 
-
-#---------create new directory for ghost piece-------------
+#---------create new directory for ghost piece---------------
 
 cd .. && mkdir gga-ghost
 
