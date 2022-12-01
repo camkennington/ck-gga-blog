@@ -1,3 +1,14 @@
 #-----Install the Ghost CLI tool---------
 
 npm install -g gatsby-cli
+
+
+
+#-----Install dependencies-----------
+
+
+cd gga-gatsby && gatsby develop
+
+#-----------Change directories. Get server started----------
+
+cd gga-gatsby && gatsby develop
