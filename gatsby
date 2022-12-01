@@ -1,0 +1,3 @@
+#-----Install the Ghost CLI tool---------
+
+npm install -g gatsby-cli
