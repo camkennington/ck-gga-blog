@@ -1,0 +1,3 @@
+#------------install a local version of Ghost--------------
+
+npm i ghost-cli@latest -g
