@@ -7,3 +7,7 @@ npm i ghost-cli@latest -g
 #---------create new directory for ghost piece-------------
 
 cd .. && mkdir gga-ghost
+
+#--------ensure we are in the correct directory. install local ghost file---------
+
+cd gga-ghost && ghost install local
