@@ -12,3 +12,5 @@ cd .. && mkdir gga-ghost
 cd gga-ghost && ghost install local
 
 
+#---------set up account at  http://localhost:2368/ghost/-----------------
+
