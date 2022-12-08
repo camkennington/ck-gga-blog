@@ -14,3 +14,14 @@ cd gga-ghost && ghost install local
 
 #---------set up account at  http://localhost:2368/ghost/-----------------
 
+# within Root of project file find 
+
+.ghost.json.
+
+#-------------Change API key
+
+"development": {
+  "apiUrl": "http://localhost:2368",
+  "contentApiKey": "5ac30c57c9590bcb23c78b169f"
+},
+
